@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rafay0237
-- 👀 I’m interested in Learning
-- 🌱 I’m currently making websites on MERN Stack and NEXT.js
+- 🧑‍🔧 I’m currently making websites on MERN Stack and NEXT.js
 - 💞️ I’m looking to collaborate on Projects
 - 📫 My contact : abdulrafayakb1515@gmail.com | linkedin.com/in/rafay0237
 
